@@ -22169,7 +22169,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3466513078539019831, guid: 720b2fc51c8f3e94cb4ad9c0165e1703, type: 3}
       propertyPath: m_Name
-      value: Blue_Boy
+      value: Player
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -25337,6 +25337,10 @@ PrefabInstance:
     - target: {fileID: 2579182102134290517, guid: 720b2fc51c8f3e94cb4ad9c0165e1703, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2781374629223843470, guid: 720b2fc51c8f3e94cb4ad9c0165e1703, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.85
       objectReference: {fileID: 0}
     - target: {fileID: 2799785531456288971, guid: 720b2fc51c8f3e94cb4ad9c0165e1703, type: 3}
       propertyPath: m_LocalPosition.x
